@@ -37,5 +37,16 @@ An LLM is a neural network designed to understand, generate, and respond to huma
 neural networks trained on massive amounts of text data, sometimes encompassing large portions of the entire publicly
 available text on the internet.
 
-The **large** in **large language model** refers to both the model's size in terms of parameters and the immense dataset
+The "large" in "large language model" refers to both the **model's size** in terms of parameters and the **immense dataset**
 on which it's trained.
+
+---
+
+LLMs utilize an architecture called the _transformers_; which allows them to pay selective attention to different parts
+of the input when making predictions, making them especially adept at handling the nuances and complexities of human
+language.
+
+Since LLMs are capable of _generating_ text, LLMs are also often referred to as a form of generative artificial
+intelligence, often abbreviated as **generative AI** or **GenAI**.
+
+---
