@@ -57,3 +57,9 @@ Research has shown that when it comes to modeling performance, custom-built LLMs
 domains) can outperform general-purpose LLMs.
 
 ---
+
+LLM is trained on a large, diverse dataset to develop a board understanding of language. This pre-trained model then
+serve as a foundational resource that can be further refined through fine-tuning, a process the model is specially
+trained on a narrower dataset that is more specific to particular tasks or domains.
+
+<img src="./img/llm-training.png" alt="llm-training" class="rounded mx-auto d-block shadow h-60">
