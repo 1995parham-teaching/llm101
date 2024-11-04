@@ -50,3 +50,10 @@ Since LLMs are capable of _generating_ text, LLMs are also often referred to as 
 intelligence, often abbreviated as **generative AI** or **GenAI**.
 
 ---
+
+# Why we should build our own LLMs?
+
+Research has shown that when it comes to modeling performance, custom-built LLMs (those are tailored for specific tasks or
+domains) can outperform general-purpose LLMs.
+
+---
