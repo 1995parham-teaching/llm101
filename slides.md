@@ -33,5 +33,6 @@ Presentation about **Large Language Models** from a non-AI developer
 
 # Introduction
 
-A large language model is a type of artificial intelligence algorithm that applies _neural network techniques_ with
-lots of parameters to process and understand human languages or text using self-supervised learning techniques.
+An LLM is a neural network designed to understand, generate, and respond to human-like text. These models are deep
+neural networks trained on massive amounts of text data, sometimes encompassing large portions of the entire publicly
+available text on the internet.
