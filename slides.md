@@ -36,3 +36,6 @@ Presentation about **Large Language Models** from a non-AI developer
 An LLM is a neural network designed to understand, generate, and respond to human-like text. These models are deep
 neural networks trained on massive amounts of text data, sometimes encompassing large portions of the entire publicly
 available text on the internet.
+
+The **large** in **large language model** refers to both the model's size in terms of parameters and the immense dataset
+on which it's trained.
