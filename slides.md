@@ -79,6 +79,12 @@ by enabling users to run them locally on their machines**.
 
 - **Local Execution**: One of the distinguishing features of Ollama is its ability to _run LLMs locally_,
   mitigating privacy concerns associated with cloud-based solutions.
-- Extensive Model Library: Ollama offers access to an extensive library of pre-trained LLMs, including popular models like Llama 3. Users can choose from a range of models tailored to different tasks, domains, and hardware capabilities, ensuring flexibility and versatility in their AI projects.
-- Seamless Integration: Ollama seamlessly integrates with a variety of tools, frameworks, and programming languages, making it easy for developers to incorporate LLMs into their workflows. Whether it's Python, LangChain, or LlamaIndex, Ollama provides robust integration options for building sophisticated AI applications and solutions.
-- Customization and Fine-tuning: With Ollama, users have the ability to customize and fine-tune LLMs to suit their specific needs and preferences. From prompt engineering to few-shot learning and fine-tuning processes, Ollama empowers users to shape the behavior and outputs of LLMs, ensuring they align with the desired objectives.
+- **Extensive Model Library**: Ollama offers access to an extensive library of _pre-trained LLMs_,
+  including popular models like Llama 3.
+- **Seamless Integration**: Ollama seamlessly integrates with a variety of tools, frameworks, and programming languages,
+  making it easy for developers to incorporate LLMs into their workflows.
+  Whether it's Python, LangChain, or LlamaIndex, Ollama provides robust integration options for building sophisticated
+  AI applications and solutions.
+- **Customization and Fine-tuning**: With Ollama, users have the ability to _customize_ and _fine-tune_ LLMs to suit their
+  specific needs and preferences. From prompt engineering to few-shot learning and fine-tuning processes,
+  Ollama empowers users to shape the behavior and outputs of LLMs, ensuring they align with the desired objectives.
