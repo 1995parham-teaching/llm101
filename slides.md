@@ -88,3 +88,9 @@ by enabling users to run them locally on their machines**.
 - **Customization and Fine-tuning**: With Ollama, users have the ability to _customize_ and _fine-tune_ LLMs to suit their
   specific needs and preferences. From prompt engineering to few-shot learning and fine-tuning processes,
   Ollama empowers users to shape the behavior and outputs of LLMs, ensuring they align with the desired objectives.
+
+---
+
+# LLM as a service
+
+<img src="./diagrams/cloud-chat.webp" alt="cloud-chat" class="rounded mx-auto d-block shadow h-60">
