@@ -63,3 +63,12 @@ serve as a foundational resource that can be further refined through fine-tuning
 trained on a narrower dataset that is more specific to particular tasks or domains.
 
 <img src="./img/llm-training.png" alt="llm-training" class="rounded mx-auto d-block shadow h-60">
+
+---
+
+# What is Ollama?
+
+[Ollama](https://ollama.com/) stands for (Omni-Layer Learning Language Acquisition Model), a novel approach to machine learning
+that promises to redefine how we perceive language acquisition and natural language processing. At its core,
+Ollama is a groundbreaking platform that **democratizes access to large language models (LLMs)
+by enabling users to run them locally on their machines**.
