@@ -13,6 +13,7 @@ mdc: true
 transition: slide-left
 overviewSnapshots: true
 exportFilename: llm101
+canvasWidth: 1200
 favicon: "https://github.com/1995parham-me.png"
 hideInToc: true
 ---
