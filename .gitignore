@@ -6,3 +6,6 @@ dist
 .remote-assets
 components.d.ts
 *.drawio.bkp
+
+# Slidev's dev server writes this with absolute /@fs/ paths — never commit it
+/index.html
