@@ -20,9 +20,12 @@ want a working mental model without diving into the math. Built with
 
 ## Run locally
 
+This project uses [pnpm](https://pnpm.io/) (required for Slidev's flat
+`node_modules` layout).
+
 ```sh
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 Then open <http://localhost:3030>. Edit [`slides.md`](./slides.md) and changes
@@ -31,7 +34,7 @@ hot-reload.
 ## Export to PDF
 
 ```sh
-npm run export
+pnpm export
 ```
 
 Produces `slides-export.pdf`. See the [Slidev export

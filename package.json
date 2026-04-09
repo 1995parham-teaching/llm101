@@ -2,6 +2,7 @@
   "name": "llm101",
   "type": "module",
   "private": true,
+  "packageManager": "pnpm@10.33.0",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
@@ -17,5 +18,8 @@
   "devDependencies": {
     "prettier": "^3.8.1",
     "prettier-plugin-slidev": "^1.0.5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild"]
   }
 }
