@@ -2,7 +2,7 @@
   "name": "llm101",
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@10.33.0",
+  "packageManager": "pnpm@10.34.6",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
@@ -10,16 +10,23 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "@slidev/cli": "^52.14.2",
+    "@slidev/cli": "^53.0.0",
     "@slidev/theme-default": "^0.25.0",
     "@slidev/theme-seriph": "^0.25.0",
-    "vue": "^3.5.32"
+    "markdown-it": "^14.3.2",
+    "vue": "^3.5.44"
   },
   "devDependencies": {
-    "prettier": "^3.8.1",
+    "prettier": "^3.9.10",
     "prettier-plugin-slidev": "^1.0.5"
   },
   "pnpm": {
-    "onlyBuiltDependencies": ["esbuild"]
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ],
+    "overrides": {
+      "monaco-editor>dompurify": "^3.4.17",
+      "pptxgenjs>image-size": "^2.0.4"
+    }
   }
 }
